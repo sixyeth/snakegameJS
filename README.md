@@ -6,4 +6,4 @@
 
 ### The game is quite fun lol.
 
-## [CLICK HERE TO PLAY](https://snakegame6yth.vercel.app/)
+## [CLICK TO PLAY](https://snakegame6yth.vercel.app/)
